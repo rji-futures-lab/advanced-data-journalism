@@ -1,14 +1,14 @@
 # Advanced Data Journalism <br/> JOUR 4432/ JOUR 7432 <br/> Fall 2019
 
-Instructors: Chase Davis, <chase.davis@gmail.com>
+Instructors:
 
-James Gordon, <gordonj@rjionline.org>
-
-Instructor of record: Mike Jenner, <jennerm@missouri.edu>
-
-216 Reynolds Journalism Institute
-
-Cell: (573) 808-4785
+- Chase Davis, <chase.davis@gmail.com>
+- James Gordon, <gordonj@rjionline.org>
+    - 001e Reynolds Journalism Institute (in the basement, next to the TV studio)
+    - Work: (573) 882-7222
+- Mike Jenner (instructor of record), <jennerm@missouri.edu>
+    - 216 Reynolds Journalism Institute
+    - Cell: (573) 808-4785
 
 **Office Hours**: Immediately after class, or by appointment
 
@@ -239,7 +239,7 @@ The University community welcomes intellectual diversity and respects student ri
 
 ## Student Support Statement
 
-Students can encounter challenges that may impact their performance in their academic programs. The School of Journalism is committed to support students who encounter these challenges. Any student who cannot afford groceries or access sufficient food to eat every day, or who lacks a safe and stable place to live is urged to contact Nicole Logue, 2500 MU Student Center, (<loguejn@missouiri.edu>) or Lynda Kraxberger, Associate Dean for Undergraduate Studies, 120 Neff Hall, <KraxbergerL@missouriu.edu> for a list of resources and support. In addition, the MU Tiger Pantry (<https://tigerpantry.missouri.edu/>) is a free resource with a food pantry and personal care items, located at 1400 S Rock Quarry Rd \#8. Students in these situations may find it helpful to notify their professors so they can also assist with finding resources.
+Students can encounter challenges that may impact their performance in their academic programs. The School of Journalism is committed to support students who encounter these challenges. Any student who cannot afford groceries or access sufficient food to eat every day, or who lacks a safe and stable place to live is urged to contact Nicole Logue, 2500 MU Student Center, (<loguejn@missouri.edu>) or Lynda Kraxberger, Associate Dean for Undergraduate Studies, 120 Neff Hall, <kraxbergerl@missouri.edu> for a list of resources and support. In addition, the MU Tiger Pantry (<https://tigerpantry.missouri.edu/>) is a free resource with a food pantry and personal care items, located at 1400 S Rock Quarry Rd \#8. Students in these situations may find it helpful to notify their professors so they can also assist with finding resources.
 
 ## Evaluating instructors
 
