@@ -60,7 +60,7 @@ Out-of-class:
 ## Mon, Feb 10
 
 In-class:
-- ???
+- Discuss data story pitches
 
 Out-of-class:
 - ???
@@ -76,7 +76,7 @@ Out-of-class:
 ## Mon, Feb 17
 
 In-class:
-- ???
+- Return pitches with notes
 
 Out-of-class:
 - ???
@@ -142,7 +142,7 @@ Out-of-class:
 ## Mon, Mar 16
 
 In-class:
-- ???
+- Discuss drafts of data story
 
 Out-of-class:
 - ???
@@ -214,7 +214,7 @@ Out-of-class:
 ## Mon, Apr 20
 
 In-class:
-- ???
+- Present final drafts
 
 Out-of-class:
 - ???
