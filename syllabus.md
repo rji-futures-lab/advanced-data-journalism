@@ -216,7 +216,7 @@ The University of Missouri maintains educational records of students in accordan
 ## University of Missouri Notice of Nondiscrimination
 The University of Missouri does not discriminate on the basis of race, color, religion, national origin, sex, sexual orientation, gender identity, gender expression, age, disability or status as a protected veteran. 
 
-## Title IX:
+## Title IX
 University of Missouri policies prohibit discrimination on the basis of race, color, national origin, ancestry, religion, sex, gender, gender identity, gender expression, sexual orientation, pregnancy, age, genetic information, disability and protected veteran status. Discrimination includes any form of unequal treatment such as denial of opportunities, harassment, and violence.  Sex-based violence includes rape, sexual assault, unwanted touching, stalking, dating/interpersonal violence, and sexual exploitation.
 
 If you experience discrimination, you are encouraged (but not required) to report the incident to the MU Office for Civil Rights & Title IX. Learn more about your rights and options at [civilrights.missouri.edu](http://civilrights.missouri.edu/) or call 573-882-3880.  You also may make an anonymous report online.
