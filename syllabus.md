@@ -1,4 +1,4 @@
-# Advanced Data Journalism <br/> JOUR 4432 / JOUR 7432 <br/> Spring 2020
+# Advanced Data Journalism (JOUR 4432 / JOUR 7432) <br/> Spring 2020
 
 Instructors:
 
@@ -51,11 +51,11 @@ There is no textbook for this class; links to relevant readings will be shared w
 
 Grading will be based on the following components:
 
-• Assignments: 60 percent
-
-• Data story project: 25 percent
-
-• Class participation, engagement and attendance: 15 percent
+| Component                      | % of final grade |
+| ------------------------------ | ---------------- |
+| Assignments                    | 60%              | 
+| Data story project             | 25%              |
+| Class participation/attendance | 15%              |
 
 There is no midterm or final exam for this course.
 
