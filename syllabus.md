@@ -14,47 +14,36 @@ Instructors:
 
 ## Course objective
 
-The goal of this class is to teach students how to creatively solve problems in journalism using computer programming. In it, students will learn how to use the Python language, statistics and advanced spreadsheet and database concepts, then apply those skills to real-world exercises. Students also will produce a project requiring the acquisition and analysis of data and will report and write a story for publication. At the end of the semester, students will have been taught many of the skills required to do advanced data journalism in a newsroom environment.
+The goal of this class is to teach students how to collect, manage, analyze and otherwise interact with data in the context of journalism practice. The primary tool students will learn and use is the Python programming language. Students will demonstrate:
 
-## About the course
+- Fluency with Python's syntax
+- Capability in using Python's standard library
+- Capability in using several popular third-party libraries (e.g., `pandas`)
+- Familiarity with quantitative reporting methods
+- Familiarity with basic web technologies (e.g., HTTP, HTML and CSS)
+- Capability in bootstrapping/managing Python project environments
+
+Students also will produce a project requiring the acquisition and analysis of data and will report and write a story for publication. 
+
+At the end of the semester, students will have been taught many of the skills required to do advanced data journalism in a newsroom environment.
+
+## Course outline
 
 Class will meet from 8:30 to 9:45 a.m. each Monday and Wednesday in 214 Lee Hills Hall. Most lectures will be delivered via the internet (and occasionally in person) by Chase Davis, innovations editor of the Minneapolis *Star Tribune.* Guest lecturers from the industry may will make periodic appearances. Some classes also will be taught by James and Mike. Class meetings will be spent reviewing coding concepts and lessons and applying them via exercises.
 
 **Students should bring their laptops to all class sessions.**
 
-The class will be built around a series of eight sequential modules that relate to and build off each other. These modules will cover the following topics in this order. The list of assignnents is not inclusive; additional assignments will be introduced in the course of the semester:
+The class will be built around a series of sequential modules that relate to and build off each other. These modules will cover the following topics (roughly) in this order. The list of assignnents is not inclusive; additional assignments will be introduced in the course of the semester:
 
-• Installation, setup, introductions, final project introduction
+- Python basics
+- Jupyter Notebook and `pandas`
+- Data analysis
+- Data visualization
+- Bootstrapping a Python environment
+- Data cleaning/scraping
+- Developing web apps
 
-  - Assignment: Github setup and demonstration
-
-• Python basics
-
-  - Assignment: Codecademy Python basics lessons
-
-• Web scraping
-
-  - Assignment: Portions of two web scrapers
-
-• APIs
-
-  - Assignment: API navigation using the web; API manipulation using Python
-
-• Data analysis with Python, iPython notebook, various statistical libraries
-
-  - Assignment: Agate tutorial; data analysis with iPython
-
-• Text as data
-
-  - Assignment: Clinton emails
-
-• Web apps
-
-  - Assignments: Simple Flask app; Congress votes API
-
-• Wrapup, final project presentations
-
-Because this learning relies on step-by-step progression, and because of the technical challenges posed by the nature of the material, it’s essential that students attend and participate in all classes so they don’t fall behind.
+Because this learning relies on step-by-step progression, and because of the technical challenges posed by the nature of the material, it’s essential that students attend and participate in all classes and complete all assignments so they don’t fall behind.
 
 There is no textbook for this class; links to relevant readings will be shared with students.
 
@@ -72,7 +61,7 @@ There is no midterm or final exam for this course.
 
 ## Data story project
 
-The data story project will represent the culmination of a variety of skills learned in this class and others. A successful project will consist of a well-reported data story on a relevant topic of local interest. Students will identify the topic and the appropriate data set, obtain the data, clean and analysis it, then write a publishable story about it. Discussion of the final project will begin early in the semester. Students will pitch ideas and report on their progress through regular, periodic memos. We’ll follow this schedule: 
+The data story project will represent the culmination of a variety of skills learned in this class and others. A successful project will consist of a well-reported data story on a relevant topic of local interest. Students will identify the topic and the appropriate data set, obtain the data, clean and analyze it, then write a publishable story about it. Discussion of the final project will begin early in the semester. Students will pitch ideas and report on their progress through regular, periodic memos. We’ll follow this schedule: 
 
 * Story pitches due Feb. 10 (the fourth Monday) — submit a proposal, including details on your data (no more than one page).
 * Pitch feedback returned by Feb. 17 (the fifth Monday)
@@ -83,7 +72,9 @@ This process will be discussed in detail during the first weeks of class.
 
 ## Graduate assignment
 
-Graduate students will be given an additional assignment to earn graduate credit for this course. This is in addition to the other assignments required of all students in the course. The graduate assignment will consist of researching and interviewing a leading industry practitioner about a particular project. Students will write a paper based on their interview and research, and will introduce the project and discuss the work before the class in the latter half of the semester. Successfully completing the graduate assignment is a stipulation for passing the course. A grade of C or better is required, even if all other course work is completed satisfactorily. Grad students should discuss this assignment individually with Mike and obtain approval before beginning work on the assignment no later than Sept. 16. Completed assignments are due Oct. 28.
+Graduate students will be given an additional assignment to earn graduate credit for this course. This is in addition to the other assignments required of all students in the course. The graduate assignment will consist of researching and interviewing a leading industry practitioner about a particular project. Students will write a paper based on their interview and research, and will introduce the project and discuss the work before the class in the latter half of the semester. Successfully completing the graduate assignment is a stipulation for passing the course. A grade of C or better is required, even if all other course work is completed satisfactorily.
+
+Grad students should discuss this assignment individually with James or Mike and obtain approval before beginning work on the assignment no later than Feb. 17 (the fifth Monday). Completed assignments are due Apr. 6 (the 11th Monday).
 
 ## Grading scale — undergrads
 
