@@ -76,51 +76,38 @@ Graduate students will be given an additional assignment to earn graduate credit
 
 Grad students should discuss this assignment individually with James or Mike and obtain approval before beginning work on the assignment no later than Feb. 17 (the fifth Monday). Completed assignments are due Apr. 6 (the 11th Monday).
 
-## Grading scale — undergrads
+## Grading scale
 
-94-100% A
+### For undergraduate students
 
-90-93% A-
+| Percent range | Letter grade |
+| ------------- | ------------ |
+| 94-100%       | A            |
+| 90-93%        | A-           | 
+| 88-89%        | B+           | 
+| 84-87%        | B            |
+| 80-83%        | B-           | 
+| 78-79%        | C+           | 
+| 74-77%        | C            |
+| 70-73%        | C-           | 
+| 68-69%        | D+           | 
+| 64-67%        | D            |
+| 63-60%        | D-           | 
+| 59% & below   | F            |
 
-88-89% B+
+### For graduate students
 
-84-87% B
-
-80-83% B-
-
-78-79% C+
-
-74-77% C
-
-70-73% C-
-
-68-69% D+
-
-64-67% D
-
-63-60% D-
-
-59% & below F
-
-## Grading scale — graduate students
-
-94-100% A
-
-90-93% A-
-
-88-89% B+
-
-84-87% B
-
-80-83% B-
-
-78-79% C+
-
-74-77% C
-
-70-73% C-
-
-69% & below F
+| Percent range | Letter grade |
+| ------------- | ------------ |
+| 94-100%       | A            |
+| 90-93%        | A-           | 
+| 88-89%        | B+           |
+| 84-87%        | B            |
+| 80-83%        | B-           |
+| 78-79%        | C+           |
+| 74-77%        | C            |
+| 70-73%        | C-           |
+| 69% & below   | F            |
 
 ## Prerequisite
 
