@@ -34,7 +34,7 @@ Class will meet from 8:30 to 9:45 a.m. each Monday and Wednesday in 214 Lee Hill
 
 **Students should bring their laptops to all class sessions.**
 
-The class will be built around a series of sequential modules that relate to and build off each other. These modules will cover the following topics (roughly) in this order. The list of assignnents is not inclusive; additional assignments will be introduced in the course of the semester:
+The class will be built around a series of sequential modules that relate to and build off each other. These modules will cover the following topics (roughly) in this order. The list of assignments is not inclusive; additional assignments will be introduced in the course of the semester:
 
 - Python basics
 - Jupyter Notebook and `pandas`
@@ -52,11 +52,11 @@ There is no textbook for this class; links to relevant readings will be shared w
 
 Grading will be based on the following components:
 
-| Component                      | % of final grade |
-| ------------------------------ | ---------------- |
-| Assignments                    | 60%              | 
-| Data story project             | 25%              |
-| Class participation/attendance | 15%              |
+| Component                       | % of final grade |
+| ------------------------------- | ---------------- |
+| Assignments                     | 60%              | 
+| Data story project              | 25%              |
+| Class participation/attendance  | 15%              |
 
 There is no midterm or final exam for this course.
 
