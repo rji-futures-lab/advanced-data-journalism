@@ -64,10 +64,13 @@ There is no midterm or final exam for this course.
 
 The data story project will represent the culmination of a variety of skills learned in this class and others. A successful project will consist of a well-reported data story on a relevant topic of local interest. Students will identify the topic and the appropriate data set, obtain the data, clean and analyze it, then write a publishable story about it. Discussion of the final project will begin early in the semester. Students will pitch ideas and report on their progress through regular, periodic memos. We’ll follow this schedule: 
 
-* Story pitches due Feb. 10 (the fourth Monday) — submit a proposal, including details on your data (no more than one page).
-* Pitch feedback returned by Feb. 17 (the fifth Monday)
-* Draft due by Mar. 16 (the ninth Monday)
-* Final drafts due Apr. 20 (the 13th Monday)
+| Assignment     | Due date    | Relative date     |
+| -------------- | ----------- | ----------------- |
+| Initial memo   | Feb. 10     | Fourth week       |
+| Story pitch    | Feb. 24     | Two weeks later   |
+| Refined pitch  | Mar. 9      | Two weeks later   |
+| Story draft    | Mar. 30     | Three weeks later | 
+| Final draft    | Apr. 27     | Four weeks later  |
 
 This process will be discussed in detail during the first weeks of class.
 
