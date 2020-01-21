@@ -1,4 +1,4 @@
-# Advanced Data Journalism (JOUR 4432 / JOUR 7432) <br/> Spring 2020
+# Advanced Data Journalism (JOURN 4432/7432) <br/> Spring 2020
 
 Instructors:
 
