@@ -19,6 +19,7 @@ The goal of this class is to teach students how to collect, manage, analyze and 
 - Fluency with Python's syntax
 - Capability in using Python's standard library
 - Capability in using several popular third-party libraries (e.g., `pandas`)
+- Capability in parsing, formatting and otherwise preparing data for analysis
 - Familiarity with quantitative reporting methods
 - Familiarity with basic web technologies (e.g., HTTP, HTML and CSS)
 - Capability in bootstrapping/managing Python project environments
@@ -40,7 +41,7 @@ The class will be built around a series of sequential modules that relate to and
 - Data analysis
 - Data visualization
 - Bootstrapping a Python environment
-- Data cleaning/scraping
+- Web scraping
 - Developing web apps
 
 Because this learning relies on step-by-step progression, and because of the technical challenges posed by the nature of the material, it’s essential that students attend and participate in all classes and complete all assignments so they don’t fall behind.
@@ -111,7 +112,7 @@ Grad students should discuss this assignment individually with James or Mike and
 
 ## Prerequisite
 
-Completion of the computer-assisted reporting class is required.
+Prior to enrollment, students are required to complete Computer-Assisted Reporting (JOURN 4430/7430) or gain consent from Mike or James.
 
 ## Attendance and punctuality  
 Although it may be possible to observe some portions of the lectures remotely, students are expected to attend class. Not all lectures are taught over the web, and the lecture schedule is subject to change at any time. Students who fail to attend class will miss receiving important information from instructors, as well as missing in-class lessons completely. Furthermore, because it takes time to log into virtual meeting rooms, students are asked to be punctual. Showing up late and then having to log in can disrupt and delay presentations, and is unfair to students who are on time. Students with attendance or punctuality problems will pay a penalty in their participation grade.
@@ -120,17 +121,12 @@ Although it may be possible to observe some portions of the lectures remotely, s
 
 As a student of the Missouri School of Journalism, you are expected to be aware of certain core values and competencies. Specifically, the Accrediting Council on Education in Journalism and Mass Communications (ACEJMC) requires that, irrespective of their particular specialization, all graduates should be able to:
 
-• Demonstrate an understanding of professional ethical principles and work ethically in pursuit of truth, accuracy, fairness and diversity;
-
-• Think critically, creatively and independently;
-
-• Understand concepts and apply theories in the use and presentation of information;
-
-• Conduct research and evaluate information by methods appropriate to the communications professions in which they work;
-
-• Apply basic numerical and statistical concepts;
-
-• Apply current tools and technologies appropriate for the communications professions in which they work, and to understand relevant aspects of the digital world.
+- Demonstrate an understanding of professional ethical principles and work ethically in pursuit of truth, accuracy, fairness and diversity;
+- Think critically, creatively and independently;
+- Understand concepts and apply theories in the use and presentation of information;
+- Conduct research and evaluate information by methods appropriate to the communications professions in which they work;
+- Apply basic numerical and statistical concepts;
+- Apply current tools and technologies appropriate for the communications professions in which they work, and to understand relevant aspects of the digital world.
 
 ## Academic honesty and integrity
 
@@ -141,21 +137,13 @@ The academic community regards breaches of the academic integrity rules as extre
 Academic misconduct includes but is not limited to the following:
 
 - Use of materials from another author without citation or attribution.
-
 - Use of verbatim materials from another author without citation or attribution.
-
 - Extensive use of materials from past assignments without permission of your instructor.
-
 - Extensive use of materials from assignments in other classes without permission of your instructor.
-
 - Extensive use of materials from work in a University media organization or external media organization without permission of your instructor.
-
 - Fabricating information in news or feature stories, whether for publication or not.
-
 - Fabricating sources in news or feature stories, whether for publication or not.
-
 - Fabricating quotes in news or feature stories, whether for publication or not.
-
 - Lack of full disclosure or permission from editors when controversial reportorial techniques, such as going undercover to get news, are used.
 
 When in doubt about plagiarism, paraphrasing, quoting or collaboration, consult with your instructor. For closed-book exams and exercises, academic misconduct includes conferring with other class members, copying or reading someone else's test and using notes and materials without prior permission of the instructor. For open-book exams and exercises, academic misconduct includes copying or reading someone else's work.
