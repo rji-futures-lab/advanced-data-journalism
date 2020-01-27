@@ -60,16 +60,27 @@ Grading will be based on the following components:
 
 There is no midterm or final exam for this course.
 
-## Data story project
+## Final project
 
-The data story project will represent the culmination of a variety of skills learned in this class and others. A successful project will consist of a well-reported data story on a relevant topic of local interest. Students will identify the topic and the appropriate data set, obtain the data, clean and analyze it, then write a publishable story about it. Discussion of the final project will begin early in the semester. Students will pitch ideas and report on their progress through regular, periodic memos. We’ll follow this schedule: 
+The final project will represent the culmination of a variety of skills learned in this class. The project must be either:
 
+- A work of journalism (whether audio, video or text) intended for a general audience; or
+- A strategy brief (whether audio, video or text) intended for an identifiable group of stakeholders.
+
+In either case, the content of your final project must be based on insights you discovered in data that you acquired, prepared and analyzed. Projects will be assessed based on the following criteria:
+
+- How challenging was the process acquiring and preparing the data?
+- How relevant/impactful our your insights to your audience?
+- How successfully have you presented your insights?
+
+The final project is a multi-step process. You will be given several assignments to ensure that you complete your project before the end of this semester:
+ 
 | Assignment     | Due date    | Relative date     |
 | -------------- | ----------- | ----------------- |
-| Initial memo   | Feb. 10     | Fourth week       |
-| Story pitch    | Feb. 24     | Two weeks later   |
+| Questionnaire  | Feb. 10     | Fourth week       |
+| Initial pitch  | Feb. 24     | Two weeks later   |
 | Refined pitch  | Mar. 9      | Two weeks later   |
-| Story draft    | Mar. 30     | Three weeks later | 
+| Initial draft  | Mar. 30     | Three weeks later | 
 | Final draft    | Apr. 27     | Four weeks later  |
 
 This process will be discussed in detail during the first weeks of class.
@@ -78,40 +89,44 @@ This process will be discussed in detail during the first weeks of class.
 
 Graduate students will be given an additional assignment to earn graduate credit for this course. This is in addition to the other assignments required of all students in the course. The graduate assignment will consist of researching and interviewing a leading industry practitioner about a particular project. Students will write a paper based on their interview and research, and will introduce the project and discuss the work before the class in the latter half of the semester. Successfully completing the graduate assignment is a stipulation for passing the course. A grade of C or better is required, even if all other course work is completed satisfactorily.
 
-Grad students should discuss this assignment individually with James or Mike and obtain approval before beginning work on the assignment no later than Feb. 17 (the fifth Monday). Completed assignments are due Apr. 6 (the 11th Monday).
+Grad students should discuss this assignment individually with James and obtain approval before beginning work on the assignment no later than Feb. 17 (the fifth Monday). Completed assignments are due Apr. 6 (the 11th Monday).
 
 ## Grading scale
+
+The grading scale for undergraduate and graduate students, with one import exceptions: Graduate students who do not earn more than 69 percent will fail this course.
 
 ### For undergraduate students
 
 | Percent range | Letter grade |
 | ------------- | ------------ |
-| 94-100%       | A            |
-| 90-93%        | A-           | 
-| 88-89%        | B+           | 
-| 84-87%        | B            |
-| 80-83%        | B-           | 
-| 78-79%        | C+           | 
-| 74-77%        | C            |
-| 70-73%        | C-           | 
-| 68-69%        | D+           | 
-| 64-67%        | D            |
-| 63-60%        | D-           | 
+| 98-100%       | A+           |
+| 93-97%        | A            |
+| 90-92%        | A-           |
+| 87-89%        | B+           |
+| 83-86%        | B            |
+| 80-82%        | B-           |
+| 77-79%        | C+           |
+| 73-76%        | C            |
+| 70-72%        | C-           |
+| 67-69%        | D+           |
+| 63-66%        | D            |
+| 60-62%        | D-           |
 | 59% & below   | F            |
 
 ### For graduate students
 
 | Percent range | Letter grade |
 | ------------- | ------------ |
-| 94-100%       | A            |
-| 90-93%        | A-           | 
-| 88-89%        | B+           |
-| 84-87%        | B            |
-| 80-83%        | B-           |
-| 78-79%        | C+           |
-| 74-77%        | C            |
-| 70-73%        | C-           |
-| 69% & below   | F            |
+| 98-100%       | A+           |
+| 93-97%        | A            |
+| 90-92%        | A-           |
+| 87-89%        | B+           |
+| 83-86%        | B            |
+| 80-82%        | B-           |
+| 77-79%        | C+           |
+| 73-76%        | C            |
+| 70-72%        | C-           |
+| 69% & below   | F            |
 
 ## Prerequisite
 
