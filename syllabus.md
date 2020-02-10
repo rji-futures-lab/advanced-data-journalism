@@ -93,7 +93,7 @@ Grad students should discuss this assignment individually with James and obtain 
 
 ## Grading scale
 
-The grading scale for undergraduate and graduate students, with one import exceptions: Graduate students who do not earn more than 69 percent will fail this course.
+The grading scale for undergraduate and graduate students, with one important exception: Graduate students who do not earn more than 69 percent will fail this course.
 
 ### For undergraduate students
 
@@ -113,6 +113,7 @@ The grading scale for undergraduate and graduate students, with one import excep
 | 60-62%        | D-           |
 | 59% & below   | F            |
 
+
 ### For graduate students
 
 | Percent range | Letter grade |
@@ -127,6 +128,7 @@ The grading scale for undergraduate and graduate students, with one import excep
 | 73-76%        | C            |
 | 70-72%        | C-           |
 | 69% & below   | F            |
+
 
 ## Prerequisite
 
